@@ -54,6 +54,6 @@ int multi(int number1, int number2)
  
 int div(int number1, int number2)
 {
-	//TODO implementation
-	return 0;
+	a = number1 / number2;
+	return a;
 }
